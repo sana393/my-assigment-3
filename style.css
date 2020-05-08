@@ -1,0 +1,20 @@
+.gal{
+    margin: 10px 50px;
+}
+.gal img{
+    width: 230px;
+    padding: 5px;
+    filter: grayscale(100%);
+    transition: 1s;
+}
+.gal img:hover{
+    filter: grayscale(0);
+    transform: scale(1.1);
+    
+}
+lala:hover{
+    text-decoration: none;
+    background-color:blue;
+    color: white;
+    transition:0.9s ;impotent
+}
